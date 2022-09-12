@@ -14,9 +14,6 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
-
 <p align="center">
   <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
 </p>
@@ -28,7 +25,7 @@ After cloning this repository, migrate to ```instagram-flutter-clone``` folder. 
 - Enable Authentication
 - Make Firestore Rules
 - Create Android, iOS & Web Apps
-- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project)
+- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys
 Then run the following commands to run your app:
 ```bash
   flutter pub get
@@ -44,5 +41,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at kparna2000@gmail.com
 
